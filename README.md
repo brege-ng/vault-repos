@@ -44,6 +44,7 @@ vault-repos/
 ├── docs/
 │   ├── architecture.md
 │   ├── bonnes-pratiques.md
+│   ├── concepts.md
 │   ├── installation.md
 │   ├── policies.md
 │   ├── secrets.md
@@ -62,6 +63,10 @@ vault-repos/
 ```
 
 ## 📚 Documentation
+
+### Concepts clés
+
+[Concepts fondamentaux de Vault](docs/concepts.md)
 
 ### Installation
 
