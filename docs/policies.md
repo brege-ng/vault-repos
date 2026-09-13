@@ -5,7 +5,7 @@
 La policy DEV est stockée dans :
 
 ```text
-policies/ligue-dev.hcl
+nano policies/ligue-dev.hcl
 ```
 
 Son objectif est de permettre au développeur de lire les secrets DEV.
@@ -40,7 +40,7 @@ PROD → refusé
 La policy PROD est stockée dans :
 
 ```text
-policies/ligue-prod.hcl
+nano policies/ligue-prod.hcl
 ```
 
 Elle permet la lecture des secrets PROD :
